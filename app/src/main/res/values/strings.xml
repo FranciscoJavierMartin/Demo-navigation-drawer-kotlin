@@ -18,4 +18,7 @@
     <string name="menu_profile_entry">Profile</string>
     <string name="menu_arrivals_entry">Arrivals</string>
     <string name="menu_departures_entry">Departures</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
