@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="user_name">Pepe Perez</string>
+    <string name="user_email">pepeperez@gmail.com</string>
+
+    <string name="open_drawer">Navigation Drawer is open</string>
+    <string name="close_drawer">Navigation Drawer is close</string>
+
+    <string name="home_fragment_title">Home</string>
+    <string name="home_fragment_hello">Hello from Home</string>
+    <string name="arrivals_fragment_title">Arrivals</string>
+    <string name="arrivals_fragment_hello">Hello from Arrivals</string>
+    <string name="departures_fragment_title">Departures</string>
+    <string name="departures_fragment_hello">Hello from Departures</string>
+    <string name="menu_home_entry">Home</string>
+    <string name="menu_settings_entry">Settings</string>
+    <string name="menu_profile_entry">Profile</string>
+    <string name="menu_arrivals_entry">Arrivals</string>
+    <string name="menu_departures_entry">Departures</string>
+</resources>
